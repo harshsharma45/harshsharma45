@@ -1,9 +1,5 @@
 ## Hi there 👋
-
-
-harshsharma45/harshsharma45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
- 💫 About Me:
+💫 About Me:
 "I am an Artificial Intelligence and Data Science student maintaining a strong academic record (9.61 CGPA) with a deep passion for solving real-world problems through data. As an aspiring Data Analyst, I specialize in Python, C++, and MySQL, applying these skills to build practical software solution for tracking platform and dynamic management systems. I am driven by continuous learning—actively expanding my expertise through hackathons, AI workshops, and technical certifications to build impactful, data-driven applications."
 
 
