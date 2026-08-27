@@ -12,7 +12,9 @@
 ---
 
 ### 💫 About Me
-I am an Artificial Intelligence and Data Science student maintaining a strong academic record (9.61 CGPA) with a passion for solving real-world inefficiencies through data. As an aspiring Data Analyst, I specialize in building practical software solutions, dynamic management systems, and data-driven applications. I am actively expanding my expertise through hackathons, technical workshops, and professional certifications to build impactful, transparent platforms.
+I am an Artificial Intelligence and Data Science engineering student driven by a passion for solving complex organizational inefficiencies through code. While maintaining a strong academic foundation (9.57 CGPA), my primary focus is on hands-on development—transforming raw data into actionable insights and building practical software solutions. 
+
+As an aspiring Data Scientist, I specialize in algorithmic problem-solving, database management, and designing dynamic platforms that improve operational transparency. I am constantly expanding my technical toolkit through global hackathons, specialized AI workshops, and professional certifications to engineer impactful, data-driven applications.
 
 ### 💻 Tech Stack
 **Core Languages:**  
