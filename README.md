@@ -1,5 +1,7 @@
-<h1 align="center">Hi there, I'm Harsh Sharma 👋</h1>
-<h3 align="center">Aspiring Data Analyst | AI & Data Science Student</h3>
+<!-- Dynamic Typing Effect Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+I'm+Harsh+Sharma+👋;Aspiring+Data+Scientist;AI+%26+Data+Science+Student" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/harshsharma45"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -10,40 +12,41 @@
 ---
 
 ### 💫 About Me
-I am an Artificial Intelligence and Data Science student maintaining a strong academic record (9.61 CGPA) with a passion for solving real-world inefficiencies through data. I specialize in building practical software solutions, dynamic management systems, and data-driven applications. I am actively expanding my expertise in data analytics, algorithmic problem-solving, and system architecture.
+I am an Artificial Intelligence and Data Science student maintaining a strong academic record (9.61 CGPA) with a passion for solving real-world inefficiencies through data. As an aspiring Data Analyst, I specialize in building practical software solutions, dynamic management systems, and data-driven applications. I am actively expanding my expertise through hackathons, technical workshops, and professional certifications to build impactful, transparent platforms.
 
 ### 💻 Tech Stack
-**Languages:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+**Core Languages:**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-**Data Science & Analysis:**  
+**Data Science:**  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
-**Web & Tools:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+**Web & Version Control:**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
-*   **Food Quality Transparency Platform:** A dynamic system designed to report and track food quality and service issues, optimizing transparency. 
-*   **Python GUI Banking Application:** A comprehensive desktop application built with Tkinter for seamless user financial management. 
-
-### 🏆 Achievements & Certifications
-*   **Hackathons:** Participant in the Google Developer Groups (GDG) Solution Challenge (Team Debuggers).
-*   **Certifications:** Infosys Springboard Certified in Python Programming and Database Management Systems (DBMS).
-*   **Workshops:** Generative AI and Prompt Engineering (Growthschool).
+### 🚀 Projects & Achievements
+*   **Internship:** Infosys Springboard Virtual Internship in Python Domain.
+*   **Python GUI Banking Application:** A comprehensive desktop application built with Tkinter for seamless user financial management.
+*   **Hackathons:** ET Hackathon and ISRO Hackathons.
+*   **Certifications:** Infosys Springboard Certified in Python Programming and Oracle Certification in Agentic AI Associate Foundation.
+*   **Workshops:** Completed advanced training in Generative AI,MongoDB and Prompt Engineering.
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=harshsharma45&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=harshsharma45&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <!-- Dynamic Primary Stats Card -->
+  <img src="https://github-readme-stats.shion.dev/api?username=harshsharma45&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Harsh Sharma's GitHub Stats" />
 </div>
+<br/>
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=harshsharma45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <!-- Dynamic Top Languages Card -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=harshsharma45&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshsharma45&icon=0&color=0" alt="Profile Views" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=harshsharma45&icon=0&color=0&style=flat-square" alt="Profile Views" />
 </p>
