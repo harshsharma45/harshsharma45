@@ -36,21 +36,19 @@ As an aspiring Data Scientist, I specialize in algorithmic problem-solving, data
 *   **Workshops:** Completed advanced training in Generative AI, MongoDB and Prompt Engineering.
 
 ---
-
-
 ### 📊 GitHub Stats
 <div align="center">
-  <!-- Dynamic Primary Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=harshsharma45&theme=tokyonight&hide_border=false&show_icons=true" alt="Harsh Sharma's GitHub Stats" />
+  <!-- Dynamic Primary Stats Card with cache bust -->
+  <img src="https://github-readme-stats.vercel.app/api?username=harshsharma45&theme=tokyonight&hide_border=false&show_icons=true&v=1" alt="Harsh Sharma's GitHub Stats" />
 </div>
 <br/>
 <div align="center">
-  <!-- Dynamic Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshsharma45&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+  <!-- Dynamic Top Languages Card with cache bust -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshsharma45&theme=tokyonight&hide_border=false&layout=compact&v=1" alt="Top Languages" />
 </div>
 
 <p align="center">
   <br/>
-  <!-- Profile Views Badge with fixed color -->
+  <!-- Profile Views Badge -->
   <img src="https://komarev.com/ghpvc/?username=harshsharma45&style=flat-square&color=7aa2f7&label=Profile+Views" alt="Profile Views" />
 </p>
