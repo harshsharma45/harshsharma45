@@ -12,9 +12,9 @@
 ---
 
 ### 💫 About Me
-I am an Artificial Intelligence and Data Science engineering student driven by a passion for solving complex organizational inefficiencies through code. While maintaining a strong academic foundation (9.61 CGPA), my primary focus is on hands-on development—transforming raw data into actionable insights and building practical software solutions. 
+I am a 5th-semester Artificial Intelligence and Data Science engineering student at Arya College of Engineering and IT, driven by a passion for solving complex organizational inefficiencies through code. While maintaining a strong academic foundation (9.55 CGPA), my primary focus is on hands-on development—transforming raw data into actionable insights and building practical software solutions. 
 
-As an aspiring Data Scientist, I specialize in algorithmic problem-solving, database management, and designing dynamic platforms that improve operational transparency. I am constantly expanding my technical toolkit through global hackathons, specialized AI workshops, and professional certifications to engineer impactful, data-driven applications.
+As an aspiring Data Analyst and Scientist, I specialize in algorithmic problem-solving, database management, and designing dynamic platforms that improve operational transparency. When I'm not studying microprocessors or optimizing SQL queries, you can usually find me following cricket! I am constantly expanding my technical toolkit through global hackathons, specialized AI workshops, and professional certifications to engineer impactful, data-driven applications.
 
 ### 💻 Tech Stack
 **Core Languages:**  
@@ -31,24 +31,26 @@ As an aspiring Data Scientist, I specialize in algorithmic problem-solving, data
 ### 🚀 Projects & Achievements
 *   **Internship:** Infosys Springboard Virtual Internship in Python Domain.
 *   **Python GUI Banking Application:** A comprehensive desktop application built with Tkinter for seamless user financial management.
-*   **Hackathons:** ET Hackathon and ISRO Hackathons.
-*   **Certifications:** Infosys Springboard Certified in Python Programming and Oracle Certification in Agentic AI Associate Foundation.
-*   **Workshops:** Completed advanced training in Generative AI, MongoDB and Prompt Engineering.
+*   **Food Quality Transparency Platform:** Designed and developed a dedicated reporting system focused on resolving service inefficiencies and improving organizational transparency.
+*   **Hackathons:** Google Developer Groups (GDG) Solution Challenge, ET Hackathon, and ISRO Hackathons.
+*   **Certifications:** Infosys Springboard Certified in Python Programming & DBMS, and Oracle Certification in Agentic AI Associate Foundation.
+*   **Workshops:** Completed advanced training in Generative AI, MongoDB, and Prompt Engineering.
 
 ---
+
 ### 📊 GitHub Stats
 <div align="center">
-  <!-- Dynamic Primary Stats Card with cache bust -->
-  <img src="https://github-readme-stats.vercel.app/api?username=harshsharma45&theme=tokyonight&hide_border=false&show_icons=true&v=1" alt="Harsh Sharma's GitHub Stats" />
+  <!-- Basic Public Stats Card (Stable) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=harshsharma45&theme=tokyonight&hide_border=false&show_icons=true" alt="Harsh Sharma's GitHub Stats" />
 </div>
 <br/>
 <div align="center">
-  <!-- Dynamic Top Languages Card with cache bust -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshsharma45&theme=tokyonight&hide_border=false&layout=compact&v=1" alt="Top Languages" />
+  <!-- Basic Top Languages Card (Stable) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshsharma45&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
 <p align="center">
   <br/>
-  <!-- Profile Views Badge -->
+  <!-- Fixed Profile Views Badge -->
   <img src="https://komarev.com/ghpvc/?username=harshsharma45&style=flat-square&color=7aa2f7&label=Profile+Views" alt="Profile Views" />
 </p>
