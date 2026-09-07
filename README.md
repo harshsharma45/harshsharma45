@@ -1,4 +1,4 @@
-hey gemini , this is github readme file <!-- Dynamic Typing Effect Header -->
+<!-- Dynamic Typing Effect Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+I'm+Harsh+Sharma+👋;Aspiring+Data+Scientist;AI+%26+Data+Science+Student" alt="Typing SVG" />
 </h1>
@@ -52,4 +52,3 @@ As an aspiring Data Scientist, I specialize in algorithmic problem-solving, data
   <br/>
   <img src="https://komarev.com/ghpvc/?username=harshsharma45&icon=0&color=0&style=flat-square" alt="Profile Views" />
 </p>
-in this it is showing the stats are not working properly and also add things like ml ,deep learning and cnn to it
