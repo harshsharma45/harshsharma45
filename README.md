@@ -36,19 +36,16 @@ As an aspiring Data Scientist, I specialize in algorithmic problem-solving, data
 *   **Workshops:** Completed advanced training in Generative AI, MongoDB and Prompt Engineering.
 
 ---
+### 📊 GitHub Analytics
 
-### 📊 GitHub Stats
-<div align="center">
-  <!-- Dynamic Primary Stats Card -->
-  <img src="https://github-readme-stats.shion.dev/api?username=harshsharma45&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Harsh Sharma's GitHub Stats" />
-</div>
-<br/>
-<div align="center">
-  <!-- Dynamic Top Languages Card -->
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=harshsharma45&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+*(Note: These statistics actively reflect both public repositories and private workflow contributions.)*
 
 <p align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=harshsharma45&icon=0&color=0&style=flat-square" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Garvit's GitHub Stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Garvit's GitHub Streak" />
+</p>
+
+---
+
