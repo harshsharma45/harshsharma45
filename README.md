@@ -41,10 +41,10 @@ As an aspiring Data Scientist, I specialize in algorithmic problem-solving, data
 *(Note: These statistics actively reflect both public repositories and private workflow contributions.)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Garvit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshsharma45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Harsh's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Garvit's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshsharma45&theme=tokyonight&hide_border=true" alt="Harsh's GitHub Streak" />
 </p>
 
 ---
