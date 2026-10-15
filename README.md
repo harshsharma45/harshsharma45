@@ -12,11 +12,11 @@
 ---
 
 ### 💫 About Me
-I am an Artificial Intelligence and Data Science undergraduate (CGPA: 9.55) dedicated to developing supervised machine learning pipelines and secure Python backend services[cite: 1]. Operating at the intersection of predictive modeling and software engineering, I focus on deploying robust, data-centric systems that solve real-world analytical problems[cite: 1].
+I am an Artificial Intelligence and Data Science undergraduate, dedicated to developing supervised machine learning pipelines and secure Python backend services. Operating at the intersection of predictive modeling and software engineering, I focus on deploying robust, data-centric systems that solve real-world analytical problems.
 
-- 🎓 **Education:** 5th Semester B.Tech in AI & Data Science at Arya College of Engineering and IT[cite: 1].
-- 💡 **Core Expertise:** Exploratory data analysis, feature engineering, predictive modeling, and database access layer architecture[cite: 1].
-- 🏆 **Community & Innovation:** Actively competing in national-level hackathons (ISRO, ET Hackathon, Geeks2code) and designing prototypes for Google Developer Groups (GDG)[cite: 1]. 
+- 🎓 **Education:** 5th Semester B.Tech in AI & Data Science at Arya College of Engineering and IT.
+- 💡 **Core Expertise:** Exploratory data analysis, feature engineering, predictive modeling, and database access layer architecture.
+- 🏆 **Community & Innovation:** Actively competing in national-level hackathons (ISRO, ET Hackathon, Geeks2code) and designing prototypes for Google Developer Groups (GDG). 
 
 ### 💻 Tech Stack & Arsenal
 
@@ -33,10 +33,10 @@ I am an Artificial Intelligence and Data Science undergraduate (CGPA: 9.55) dedi
 
 ### 🚀 Featured Projects & Experience
 
-*   **Infosys Springboard | Python Developer Intern:** Engineered modular Python backend authentication services implementing Role-Based Access Control (RBAC)[cite: 1]. Hardened database interaction layers using parameterized SQL queries and session validation to prevent unauthorized execution[cite: 1].
-*   **Aegis Intelligence (Market Trend Prediction):** Built an automated ML pipeline to analyze 50,000+ historical records of high-frequency financial time-series data[cite: 1]. Trained classification models on engineered technical indicators to achieve an 84% directional accuracy in forecasting trend reversals[cite: 1].
-*   **Student Risk Management System:** Developed a predictive classification model using Scikit-Learn to identify students vulnerable to academic probation[cite: 1]. Addressed target class imbalance using SMOTE and performed 5-fold cross-validation to achieve an ROC-AUC score of 0.88[cite: 1].
-*   **Food Preservation & Spoilage Prediction:** Implemented a dual-model architecture utilizing Linear Regression to estimate remaining shelf life and Logistic Regression to predict binary spoilage risks across 1,200+ multi-sensor samples[cite: 1].
+*   **Infosys Springboard | Python Developer Intern:** Engineered modular Python backend authentication services implementing Role-Based Access Control (RBAC). Hardened database interaction layers using parameterized SQL queries and session validation to prevent unauthorized execution.
+*   **Aegis Intelligence (Market Trend Prediction):** Built an automated ML pipeline to analyze 50,000+ historical records of high-frequency financial time-series data. Trained classification models on engineered technical indicators to achieve an 84% directional accuracy in forecasting trend reversals.
+*   **Student Risk Management System:** Developed a predictive classification model using Scikit-Learn to identify students vulnerable to academic probation. Addressed target class imbalance using SMOTE and performed 5-fold cross-validation to achieve an ROC-AUC score of 0.88.
+*   **Food Preservation & Spoilage Prediction:** Implemented a dual-model architecture utilizing Linear Regression to estimate remaining shelf life and Logistic Regression to predict binary spoilage risks across 1,200+ multi-sensor samples.
 *   **Hackathon Solutions:** 
     *   Developed **Rental Reality Check** for the Geeks2code hackathon.
     *   Proposed **SnapVault** (on-device document processing) for the Snapdragon AI Lab Build & Present Challenge.
@@ -46,10 +46,10 @@ I am an Artificial Intelligence and Data Science undergraduate (CGPA: 9.55) dedi
 
 ### 📜 Certifications
 
-*   **Oracle Certified:** Agentic AI Associate[cite: 1]
-*   **MongoDB:** Building AI Agents & AI-Powered Search with Vector Search[cite: 1]
-*   **MongoDB:** AI Data Strategy[cite: 1]
-*   **Microsoft:** Discover Data Analysis[cite: 1]
+*   **Oracle Certified:** Agentic AI Associate
+*   **MongoDB:** Building AI Agents & AI-Powered Search with Vector Search
+*   **MongoDB:** AI Data Strategy
+*   **Microsoft:** Discover Data Analysis
 
 ---
 
